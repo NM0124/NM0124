@@ -63,4 +63,4 @@
 +*%@@@@@@@@@@@@@@@@@@@%#%@@@@@@@@@@@@@@@@#####################********#%@@@@@@@@@@@@@@@@+#%%@@######
 ```
 
-[![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NM0124)]
+(![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NM0124&show_icons=true&theme=tokyonight&include_all_commits=true)
